@@ -30,7 +30,7 @@ twitter_username: None
 github_username:  tkhan64
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
